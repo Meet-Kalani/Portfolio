@@ -1,0 +1,11 @@
+html,body{
+    overflow-x: hidden;
+}
+
+#project-section{
+    margin-top: 150px;
+}
+
+#project-section div{
+    margin-bottom:30px;
+}
