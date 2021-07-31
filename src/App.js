@@ -59,7 +59,7 @@ function App() {
         </div>
         <div className="col-10">
           <Project
-            path=`${procces.env.PUBLIC_URL}/images/todo-list.png`
+            path="./images/todo-list.png"
             alt="To-Do List"
             desc="The Project is all about To-Do List. You can create your own Different todos to your own task and it has login functionality so you can easily access it through Mobile, Desktop, Laptop or Tablet. Todos have different priorities like High, Medium and Low as well as different Status like To Do, Doing and Done. So you can easily determine your next task."
             usedTech="Angular 1.x, NodeJS, ExpressJS, MongoDB, HTML, CSS, JavaScript"
@@ -69,7 +69,7 @@ function App() {
         </div>
         <div className="col-10">
           <Project
-            path=`${procces.env.PUBLIC_URL}/images/corona-project.png`
+            path="./images/corona-project.png"
             alt="Corona Tracker"
             desc="Go Corona Go Project is about showing data of Covid Cases. On this website you can search through among all contries and see their Total corona cases, Total deaths, Total Recovered and much more data related their country's corona cases"
             usedTech="NodeJS, ExpressJS, Bootstrap, HTML, CSS, JavaScript"
@@ -79,7 +79,7 @@ function App() {
         </div>
         <div className="col-10">
           <Project
-            path=`${procces.env.PUBLIC_URL}/images/youtube-downloader.png`
+            path="./images/youtube-downloader.png"
             alt="Youtube Downloader"
             desc="By using Blowdown--load you can easily convert YouTube videos to mp3 (audio) files and download them for free - this service works for computers, tablets and mobile devices."
             usedTech="NodeJS, ExpressJS, Bootstrap, Paticles.js, HTML, CSS, JavaScript"
@@ -89,7 +89,7 @@ function App() {
         </div>
         <div className="col-10">
           <Project
-            path=`${procces.env.PUBLIC_URL}/images/web-dev.png`
+            path="./images/web-dev.png"
             alt="Web Dev"
             desc="Web Dev Project is based upon a fictional Website creator firm that leads in Web Development, Web Designning, SEO and more. Web Dev is Front end only website the main focus of the website is animation."
             usedTech="HTML, CSS, JavaScript, Bootstrap, WOW.js"
